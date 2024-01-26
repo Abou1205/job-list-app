@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "position": "Front End",
+      "company": "Udemig",
+      "location": "USA",
+      "status": "Ongoing",
+      "type": "Full Time",
+      "id": "bb83ca70-4792-4603-a09d-8e52df86b744",
+      "date": "2023-01-26"
+    },
+    {
+      "position": "Software Tester",
+      "company": "Unilever",
+      "location": "Istanbul",
+      "status": "Interview",
+      "type": "Remote",
+      "id": "0496c1b7-96e8-4752-ad2e-13b69feab0f0",
+      "date": "2024-01-26"
+    },
+    {
+      "position": "Product Manager",
+      "company": "Google",
+      "location": "USA",
+      "status": "Ongoing",
+      "type": "Remote",
+      "id": "5b7ceef7-42f7-4788-bf4e-cb36b3059b80",
+      "date": "2024-01-26"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "Düzce",
+      "status": "Ongoing",
+      "type": "Internship",
+      "id": "8474d9aa-84af-474f-b0bb-c61c5d5b8cb1",
+      "date": "2024-01-26"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Mimcode",
+      "location": "düzce",
+      "status": "Denied",
+      "type": "Internship",
+      "id": "972fc0fe-b7e8-409c-8e6d-8886eee64a6e",
+      "date": "2024-01-26"
+    },
+    {
+      "position": "React Developer",
+      "company": "Mimcode",
+      "location": "Istanbul",
+      "status": "Ongoing",
+      "type": "Remote",
+      "id": "1a61905a-ea23-43f9-b4f9-5369d5d2a170",
+      "date": "2024-01-26"
+    }
+  ]
+}
